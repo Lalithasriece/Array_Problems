@@ -32,7 +32,20 @@ System.out.println(a[i]);
     }
 }
 
-
+/*OUTPUT:
+5
+Enter the value:5
+4
+3
+2
+1
+The reversed value is:
+1
+2
+3
+4
+5
+*/
 
 
 
