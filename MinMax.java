@@ -25,10 +25,16 @@ for(int i=1;i<n;i++){
     }
 }
 System.out.println("The Maximum value is: "+max);
-
-
-
-
-
 }
 }
+
+
+/*OUTPUT:
+5
+Enter the value:1
+2
+3
+4
+5
+The Minimum value is: 1
+The Maximum value is: 5 */
